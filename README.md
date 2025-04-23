@@ -8,7 +8,7 @@
 
 ### 💡 About Me
 - 🎓 1st-year student in *IT og Mediaproduksjon*
-- 🇺🇦 Originally from Ukraine, living in Norway since 2022
+- 🇺🇦 Originally from Ukraine, living in Norway since 2023
 - 👨‍💻 Building a 2D RPG platformer game (JavaScript + Canvas + Node.js)
 - 🚀 Looking for a summer job (*sommerjobb*) in IT / development
 - 📹 Also into drones, video editing, and tech content creation
