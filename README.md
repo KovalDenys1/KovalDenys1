@@ -7,7 +7,7 @@
 ---
 
 ### 💡 About Me
-- 🎓 1st-year student in *IT og Mediaproduksjon*
+- 🎓 2nd-year student in *IT og Mediaproduksjon*
 - 🇺🇦 Originally from Ukraine, living in Norway since 2023
 - 👨‍💻 Building a 2D RPG platformer game (JavaScript + Canvas + Node.js)
 - 🚀 Looking for a job in IT / development
@@ -54,4 +54,4 @@
 
 ---
 
-> ⚡ Fun fact: I love snowboarding, ping-pong, drone shooting, and exploring forests 🌲
+> ⚡ Fun fact: I love playing computer games, snowboarding, ping-pong, drone shooting, and exploring forests 🌲
