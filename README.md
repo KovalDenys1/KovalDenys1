@@ -1,13 +1,13 @@
 <h1 align="center">Hey there, I'm Denys 👋</h1>
 
 <p align="center">
-  A passionate IT student, aspiring fullstack developer, and creative media enthusiast based in Norway 🇳🇴
+  A passionate IT student, aspiring future fullstack developer, and creative media enthusiast based in Norway 🇳🇴
 </p>
 
 ---
 
 ### 💡 About Me
-- 🎓 2nd-year student in *IT og Mediaproduksjon*
+- 🎓 2nd-year student in IT
 - 🇺🇦 Originally from Ukraine, living in Norway since 2023
 - 👨‍💻 Building a 2D RPG platformer game (JavaScript + Canvas + Node.js)
 - 🚀 Looking for a job in IT / development
