@@ -31,7 +31,7 @@
 
 > **🕹️ RPG Platformer Game**
 >  
-> A 2D action game with character upgrades, boss fights, arena waves, and mobile support. Built with:
+> A 2D action game with character upgrades, boss fights, arena waves and mobile support. Built with:
 > - Frontend: JavaScript + Canvas
 > - Backend: Node.js + PostgreSQL
 
