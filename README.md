@@ -1,39 +1,40 @@
 <h1 align="center">Hey there, I'm Denys 👋</h1>
 
 <p align="center">
-  A passionate IT student, aspiring future fullstack developer, and creative media enthusiast based in Norway 🇳🇴
+  IT student based in Norway 🇳🇴, passionate about web development, backend systems, and exploring new technologies.
 </p>
 
 ---
 
 ### 💡 About Me
-- 🎓 2nd-year student in IT
-- 🇺🇦 Originally from Ukraine, living in Norway since 2023
-- 👨‍💻 Building a 2D RPG platformer game (JavaScript + Canvas + Node.js)
-- 🚀 Looking for a job in IT / development
-- 📹 Also into drones, video editing, and tech content creation
+- 🎓 2nd-year IT student (IT og mediaproduksjon)
+- 🇺🇦 Originally from Ukraine, now living in Norway
+- 👨‍💻 Currently working on an SEO API (Python + FastAPI)
+- 🚀 Looking for praksisplass / internship in IT & development
+- 📹 Also into drones, video editing, and creative media
+- 💼 Interested in technology and sales — learning how digital products are built and sold
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+
+**Tools & Others**  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
----
-
-### 🎮 Current Project
-
-> **🕹️ RPG Platformer Game**
->  
-> A 2D action game with character upgrades, boss fights, arena waves and mobile support. Built with:
-> - Frontend: JavaScript + Canvas
-> - Backend: Node.js + PostgreSQL
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-black?style=flat-square&logo=raspberrypi)
+![Networking](https://img.shields.io/badge/-Networking-black?style=flat-square&logo=cisco)
 
 ---
 
@@ -54,4 +55,4 @@
 
 ---
 
-> ⚡ Fun fact: I love playing computer games, snowboarding, ping-pong, drone shooting, and exploring forests 🌲
+> ⚡ Fun fact: I love computer games, traveling, snowboarding, ping-pong, drone shooting, and exploring forests 🌲
