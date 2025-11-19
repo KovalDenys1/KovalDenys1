@@ -1,18 +1,18 @@
 <h1 align="center">Hey there, I'm Denys 👋</h1>
 
 <p align="center">
-  IT student based in Norway 🇳🇴, passionate about web development, backend systems, and exploring new technologies.
+  IT student based in Norway 🇳🇴, passionate about full-stack development, backend systems, and exploring new technologies.
 </p>
 
 ---
 
 ### 💡 About Me
-- 🎓 2nd-year IT student (IT og mediaproduksjon)
-- 🇺🇦 Originally from Ukraine, now living in Norway
-- 👨‍💻 Currently working on an SEO API (Python + FastAPI)
-- 🚀 Looking for praksisplass / internship in IT & development
-- 📹 Also into drones, video editing, and creative media
-- 💼 Interested in technology and sales — learning how digital products are built and sold
+- 🎓 2nd-year IT student  
+- 🇺🇦 Originally from Ukraine, now living in Norway  
+- 👨‍💻 Currently building <a href="https://boardly.online" target="_blank"><b>Boardly</b></a> — an online platform for playing board games with friends  
+- 🚀 Looking for praksisplass / internship in IT & development  
+- 📹 Also into drones, video editing, and creative media  
+- 💼 Interested in how digital products are built and scaled — from tech to user experience  
 
 ---
 
@@ -49,7 +49,7 @@
 ### 🌐 Connect with Me
 
 - 🔗 [Portfolio Website](https://kovaldenys1.github.io/Portfolio/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/denys-koval-8b219223a/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kovaldenys/)
 - 📸 [Instagram](https://www.instagram.com/kovaldenys1/)
 - 💬 [Telegram](https://t.me/kovaldenys1)
 
