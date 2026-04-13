@@ -48,7 +48,6 @@
 
 ### 🌐 Connect with Me
 
-- 🔗 [Portfolio Website](https://kovaldenys1.github.io/Portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kovaldenys/)
 - 📸 [Instagram](https://www.instagram.com/kovaldenys1/)
 - 💬 [Telegram](https://t.me/kovaldenys1)
