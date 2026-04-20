@@ -8,8 +8,7 @@
 
 - 2nd-year IT student
 - Building [Boardly](https://boardly.online) — real-time multiplayer board games platform
-- Looking for praksisplass / internship in IT
-- Also into drones, video editing, and creative media
+- Also into gaming, drones, video editing and creative media
 
 ---
 
