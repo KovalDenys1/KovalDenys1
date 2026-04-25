@@ -2,7 +2,6 @@
 
 <sub>◆ &nbsp;◆ &nbsp;◆</sub>
 
-<!-- Typing animation header -->
 <a href="https://github.com/KovalDenys1">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=42&duration=2400&pause=900&color=E6EDF3&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+Denys." alt="Hey, I'm Denys." />
 </a>
@@ -23,7 +22,7 @@
 
 Second-year IT student building things that feel calm and considered.
 I care about good defaults, fewer clicks, and software that doesn't shout.
-When I'm not coding I'm in the gym, flying my drone, or losing another Dota match.
+When I'm not coding I'm in the gym, flying drone, or playing Dota 2.
 
 <br />
 
@@ -62,7 +61,6 @@ When I'm not coding I'm in the gym, flying my drone, or losing another Dota matc
 
 <br /><br />
 
-<!-- Snake animation — needs the GitHub Action set up; see notes below -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KovalDenys1/KovalDenys1/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KovalDenys1/KovalDenys1/output/github-snake.svg" />
