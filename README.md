@@ -3,7 +3,7 @@
 <sub>◆ &nbsp;◆ &nbsp;◆</sub>
 
 <a href="https://github.com/KovalDenys1">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=42&duration=2400&pause=900&color=E6EDF3&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+Denys." alt="Hey, I'm Denys." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=42&duration=2400&pause=900&color=E6EDF3&center=true&vCenter=true&width=560&height=65&lines=Hey%2C+I'm+Denys." alt="Hey, I'm Denys." />
 </a>
 
 <p>
@@ -52,12 +52,9 @@ When I'm not coding I'm in the gym, flying drone, or playing Dota 2.
 
 ### <sub>GITHUB</sub>
 
-<a href="https://github.com/KovalDenys1">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KovalDenys1&show_icons=true&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
-</a>
-<a href="https://github.com/KovalDenys1">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KovalDenys1&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117" />
-</a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=KovalDenys1&hide_border=true&background=0d1117&stroke=0d1117&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+</div>
 
 <br /><br />
 
