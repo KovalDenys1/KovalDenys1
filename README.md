@@ -83,7 +83,6 @@ When I'm not coding I'm in the gym, flying drone, traveling, or playing Dota 2.
 | :----------- | :-------------------------------------------------------------------- |
 | LinkedIn     | [in/kovaldenys](https://www.linkedin.com/in/kovaldenys)               |
 | Telegram     | [@kovaldenys1](https://t.me/kovaldenys1)                              |
-| Codewars     | [Denys_Koval](https://www.codewars.com/users/Denys_Koval)             |
 | Site         | [boardly.online](https://boardly.online)                              |
 
 <br />
