@@ -22,7 +22,7 @@
 
 Lærling (apprentice) at Comono, third-year IT student in Norway — building things that feel calm and considered.
 I care about good defaults, fewer clicks, and software that doesn't shout.
-When I'm not coding I'm in the gym, flying drone, or playing Dota 2.
+When I'm not coding I'm in the gym, flying drone, traveling, or playing Dota 2.
 
 <br />
 
