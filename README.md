@@ -20,7 +20,7 @@
 
 ### <sub>ABOUT</sub>
 
-Second-year IT student building things that feel calm and considered.
+Lærling (apprentice) at Comono, third-year IT student in Norway — building things that feel calm and considered.
 I care about good defaults, fewer clicks, and software that doesn't shout.
 When I'm not coding I'm in the gym, flying drone, or playing Dota 2.
 
@@ -33,8 +33,10 @@ When I'm not coding I'm in the gym, flying drone, or playing Dota 2.
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-0c344b?style=flat-square&logo=prisma&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=ffd43b)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0b1120?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
 
 <br />
@@ -47,6 +49,15 @@ When I'm not coding I'm in the gym, flying drone, or playing Dota 2.
 > Real-time multiplayer rooms, accounts, game logic.
 >
 > <sub>`Next.js` &nbsp; `Supabase` &nbsp; `TypeScript`</sub>
+
+<br />
+
+> **Life Assistant Bot** &nbsp;·&nbsp; <sub>personal, private</sub>
+>
+> My own second brain on Telegram — logs habits, nutrition, and finance straight
+> into an Obsidian vault, with Claude running the daily check-ins.
+>
+> <sub>`Python` &nbsp; `Telegram` &nbsp; `Claude API`</sub>
 
 <br />
 
