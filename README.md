@@ -64,7 +64,7 @@ When I'm not coding I'm in the gym, flying drone, traveling, or playing Dota 2.
 ### <sub>GITHUB</sub>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=KovalDenys1&hide_border=true&background=0d1117&stroke=0d1117&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/KovalDenys1/KovalDenys1/output/streak-stats.svg" alt="GitHub Streak" />
 </div>
 
 <br /><br />
