@@ -27,6 +27,11 @@ jobs:
           path: dist/streak-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate typing SVG (falls back to last good copy if the live demo is down)
+        run: |
+          curl -fsSL "https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=42&duration=2400&pause=900&color=E6EDF3&center=true&vCenter=true&width=560&height=65&lines=Hey%2C+I%27m+Denys." -o dist/typing.svg \
+          || curl -fsSL "https://raw.githubusercontent.com/KovalDenys1/KovalDenys1/output/typing.svg" -o dist/typing.svg
+
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
