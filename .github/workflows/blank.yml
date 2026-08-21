@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -20,6 +20,12 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=KovalDenys1&hide_border=true&background=0D1117&stroke=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&disable_animations=true
+          path: dist/streak-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
