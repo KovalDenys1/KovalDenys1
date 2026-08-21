@@ -3,7 +3,7 @@
 <sub>◆ &nbsp;◆ &nbsp;◆</sub>
 
 <a href="https://github.com/KovalDenys1">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=42&duration=2400&pause=900&color=E6EDF3&center=true&vCenter=true&width=560&height=65&lines=Hey%2C+I'm+Denys." alt="Hey, I'm Denys." />
+  <img src="https://raw.githubusercontent.com/KovalDenys1/KovalDenys1/output/typing.svg" alt="Hey, I'm Denys." />
 </a>
 
 <p>
