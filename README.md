@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <sub>IT student in Norway · full-stack developer · originally from Ukraine</sub>
+  <sub>Full-stack developer · IT apprentice at Comono · Oslo, originally from Ukraine</sub>
 </p>
 
 </div>
@@ -20,9 +20,9 @@
 
 ### <sub>ABOUT</sub>
 
-Lærling (apprentice) at Comono, third-year IT student in Norway — building things that feel calm and considered.
+IT developer apprentice (lærling) at Comono in Oslo — building things that feel calm and considered.
 I care about good defaults, fewer clicks, and software that doesn't shout.
-When I'm not coding I'm in the gym, flying drone, traveling, or playing Dota 2.
+When I'm not coding I'm in the gym, flying drones, traveling, or playing Dota 2.
 
 <br />
 
@@ -52,7 +52,7 @@ When I'm not coding I'm in the gym, flying drone, traveling, or playing Dota 2.
 
 <br />
 
-> **Life Assistant Bot** &nbsp;·&nbsp; <sub>personal, private</sub>
+> **[Life Assistant Bot](https://github.com/KovalDenys1/life-bot-public)** &nbsp;·&nbsp; <sub>open source</sub>
 >
 > My own second brain on Telegram — logs habits, nutrition, and finance straight
 > into an Obsidian vault, with Claude running the daily check-ins.
