@@ -56,11 +56,7 @@
       </g>
     </g>
   </g>
-  <g transform="translate(68 0)">
-    <g class="rise" style="animation-delay:.1s">
-      <circle cx="5" cy="99" r="4" fill="#6fe3c1"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
-      <text x="20" y="104" class="mono" font-size="15" letter-spacing="2.5" fill="#6fe3c1">59.91°N 10.75°E – OSLO</text>
-    </g>
+  <g transform="translate(68 -30)">
     <text x="-4" y="208" class="display name" font-size="100" fill="#eef4fa">Denys Koval</text>
     <text x="0" y="262" class="body rise" font-weight="500" font-size="29" fill="#eef4fa" style="animation-delay:.5s">Full-stack developer&#160;&#8201;<tspan fill="#ff8a5c">·</tspan>&#8201;&#160;drone pilot</text>
     <text class="body rise" font-size="20" fill="#c4cedb" style="animation-delay:.7s">
