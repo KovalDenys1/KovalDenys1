@@ -18,19 +18,14 @@ jobs:
         with:
           github_user_name: KovalDenys1
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=ff8a5c&color_dots=ebedf0,b9f0df,82e0c4,3fb995,1a7a62
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=ff8a5c&color_dots=161b22,0e4a3d,1a7a62,3fb995,6fe3c1
 
       - uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=KovalDenys1&hide_border=true&background=0D1117&stroke=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&disable_animations=true
+          options: user=KovalDenys1&hide_border=true&border_radius=24&background=0F141D&stroke=1F2A33&ring=6FE3C1&fire=FF8A5C&currStreakLabel=6FE3C1&sideLabels=C4CEDB&currStreakNum=EEF4FA&sideNums=EEF4FA&dates=7D8899&disable_animations=true
           path: dist/streak-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate typing SVG (falls back to last good copy if the live demo is down)
-        run: |
-          curl -fsSL "https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=42&duration=2400&pause=900&color=E6EDF3&center=true&vCenter=true&width=560&height=65&lines=Hey%2C+I%27m+Denys." -o dist/typing.svg \
-          || curl -fsSL "https://raw.githubusercontent.com/KovalDenys1/KovalDenys1/output/typing.svg" -o dist/typing.svg
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
